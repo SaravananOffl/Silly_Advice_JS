@@ -2,8 +2,7 @@
     text-align: center;
     font-family: 'Cookie', cursive;
 
-    margin-top: 20%;
-    margin-bottom: 1em;
+    /*margin-bottom: 1em;*/
 }
 *{
     background: black;
@@ -11,7 +10,9 @@
 
 }
 body{
-
+    margin-top: 200px;
+    max-width:100%;
+    max-height:100%;
     background: black;
     color: white;
 }
